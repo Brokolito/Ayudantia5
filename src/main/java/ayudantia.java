@@ -68,7 +68,7 @@ public class ayudantia {
     public static void mostrar_vidas(int vidas){
         System.out.print("Vidas :  ");
         for (int i=0;i<vidas;i++) {
-            System.out.print("♥");
+            System.out.print(".");
         }
     }
 
